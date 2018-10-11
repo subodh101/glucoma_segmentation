@@ -1,4 +1,4 @@
-GLUCOMA SEGMENTATION using Convolutional Neural Network
+GLAUCOMA SEGMENTATION using Convolutional Neural Network
 
 
 
