@@ -6,8 +6,10 @@ Total Images: 943
 
 Data Preparation: Cropped the OD area and resized all the images to 128*128*3
 
+Data Augumentation: Normalization
+
 Model: Tried out different neural network models.
 
-Evaluation: IOU score and Dice score
+Evaluation: IOU score and Dice score.
 
-Conclusion: 
+Conclusion: Worked really well with RIM-ONEv2(455) dataset only.
